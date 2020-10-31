@@ -1,5 +1,6 @@
 # JrxySignInForSDAU
-为SDAU适配的基于Auto.JS的今日校园自动打卡签到工具  
+为SDAU适配的基于Auto.JS的今日校园自动打卡签到工具   
+<font color=green size=100>登高自闭</font>  
 谨以此库纪念2020年为新冠疫情奋战的勇士（特指医生们，而不是做表面工作的学校领导）  
 功能：  
 定时无人值守自动签到，  
